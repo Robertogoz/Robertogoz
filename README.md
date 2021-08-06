@@ -1,10 +1,9 @@
-<h1 align="center">Intro</h1>
+### I'm Roberto Goz! 👋👋
 
-<p align="center"> I'm Roberto Goz, a Software engineering student from Brasil... </p>
+🖥️ I'm a Software engineering student at UTFPR<br>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertogoz&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertogoz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3 align="center">Languages</h3>
- 
-<p align="center"> I'm current working with typescript, javascript and node.js mainly </p>  
-
+<div>
+  <a href="https://linktr.ee/RobertoGoz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertogoz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertogoz&layout=compact&langs_count=7&theme=dark"/>
+</div>
