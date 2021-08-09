@@ -1,6 +1,6 @@
 ### I'm Roberto Goz! 👋👋
 
-🖥️ I'm a Software engineering student at UTFPR<br>
+* 🖥️ I'm a Software engineering student at UTFPR<br>
   
 <div>
   <a href="https://linktr.ee/RobertoGoz" target="_blank">
