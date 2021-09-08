@@ -1,8 +1,8 @@
 ### I'm Roberto Goz !!! 👋👋
 
-* 🖥️ I'm a Software engineering student at UTFPR<br>
+* 🖥️ I'm a Software engineering student at UTFPR.
   
-* 🌐 How to reach me: **robr422@gmail.com**  
+* 🌐 How to reach me: **robr422@gmail.com**.  
 
   
 <div>
