@@ -3,7 +3,6 @@
 * 🖥️ I'm a Software engineering student at UTFPR.
   
 * 🌐 How to reach me: **robr422@gmail.com**.  
-
   
 <div>
     <a href="https://linktr.ee/RobertoGoz" target="_blank">
