@@ -1,6 +1,6 @@
 ### I'm Roberto Goz !!! 👋👋
 
-* 🖥️ I'm a Software engineering student at UTFPR.
+* 🖥️ I'm a Software engineering student at Federal University of Technology - Paraná - UTFPR.
   
 * 🌐 How to reach me: **robr422@gmail.com**.
 
