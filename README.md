@@ -2,7 +2,7 @@
 
 * 🖥️ I'm a Software Engineer by Federal University of Technology - Paraná - UTFPR.
 
-* 🗺️ I'm have over 3 years working as Software Engineer in multiple projects
+* 🗺️ I'm have over 4 years working as Software Engineer in multiple projects
   
 * 🌐 How to reach me: **robr422@gmail.com**.
 
